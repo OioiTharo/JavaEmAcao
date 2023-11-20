@@ -67,4 +67,16 @@ class Veiculo extends Motor {
     public void setqtdRodas(int qtdRodas){
         this.qtdRodas = qtdRodas;
     }
+    
+    public float calcVel(float velocMax){
+        if(this instanceof Passeio){
+            return velocMax * 1000/3600;
+        }
+        else if(this instanceof Carga){
+            return velocMax * 100000/3600;
+        }else{
+            return velocMax;
+        }
+
+    }
 }
