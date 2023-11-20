@@ -5,6 +5,13 @@
 ### TSI - Noturno - 3º sem
 
 
-Parte 1 -> Entrega dia 11/11/2023
-<br>
-Parte 2 -> Entrega dia 24/11/2023
+<table> 
+  <tr>
+    <td>Parte 1</td>
+    <td>Entrega dia 11/11/2023</td>
+  </tr>
+  <tr>
+      <td>Parte 2</td>
+      <td>Entrega dia 24/11/2023</td>
+  </tr>
+</table>
